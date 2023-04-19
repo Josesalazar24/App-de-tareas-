@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/App-de-tareas/static/css/main.e7cfa196.css",
+    "main.js": "/App-de-tareas/static/js/main.639d4fd6.js",
+    "index.html": "/App-de-tareas/index.html",
+    "main.e7cfa196.css.map": "/App-de-tareas/static/css/main.e7cfa196.css.map",
+    "main.639d4fd6.js.map": "/App-de-tareas/static/js/main.639d4fd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7cfa196.css",
+    "static/js/main.639d4fd6.js"
+  ]
+}
